@@ -1,0 +1,1 @@
+.rowNumber[data-v-240dab80]:before{content:counter(cssRowCounter) ". ";counter-increment:cssRowCounter}.my-card[data-v-240dab80]{width:100%}
